@@ -8,6 +8,11 @@ README参照
 
 README参照
 
+## [astro-notion-blog-HACKsaw](https://github.com/melumuccu/astro-notion-blog-HACKsaw)
+
+- HACKsawのblog (技術的な記事は主にQiitaに投稿しているためそちら参照)
+    -  https://qiita.com/sawa-akabee
+
 ## qrypto-ale シリーズ
 
 - 仮想通貨の取引履歴を取引所のAPIで取得し、平均取得価額などを計算し表示するアプリケーション
