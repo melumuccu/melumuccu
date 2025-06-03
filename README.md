@@ -1,4 +1,13 @@
 # 主な成果物 (公開可能なもの)
+
+## [mcp-notion](https://github.com/melumuccu/mcp-notion)
+
+README参照
+
+## [get-google-map-place-info](https://github.com/melumuccu/get-google-map-place-info)
+
+README参照
+
 ## qrypto-ale シリーズ
 
 - 仮想通貨の取引履歴を取引所のAPIで取得し、平均取得価額などを計算し表示するアプリケーション
