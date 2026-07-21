@@ -13,13 +13,15 @@
 
 - 複数端末の設定同期が面倒
   - -> push/pull の簡単なコマンドで実現
+- 新端末のセットアップが面倒
+  - -> chezmoi ベースで爆速セットアップ
 
 ## [ai](https://github.com/melumuccu/ai)
 
 #### 概要
 
 - AI Agent 向け skill 集約 repo
-- この repo を [skills](https://github.com/vercel-labs/skills) で指定することでグローバル skills を一括導入可
+- この repo を [vercel-labs/skills](https://github.com/vercel-labs/skills) で指定することでグローバル skills を一括導入可
 - 外部 skill と自作 skill の二層構成
   - 自作 skill = `kf-g-*` の命名規則
 - skills.json 自動生成でクラウド Agent も web 経由で skills 参照可能
